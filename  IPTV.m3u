@@ -6011,7 +6011,9 @@ http://lista.digitalgroup.me:80/Iago12345/iago12345/20833
 https://0.0.0.0
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/ev-mkt/campanhas/lancamentos/topo.png" group-title="LANÇAMENTOS", [COLOR red][B]......[/B][/COLOR]
 https://0.0.0.0
-
+ 
+#EXTINF:-1 tvg-logo="http://lhmtv.tech/logo/filmes.png" group-title="LANÇAMENTOS" ,Homem Aranha:Longe De Casa
+https://www.cineizi.tk/movies/haldc.mp4
 #EXTINF:-1 tvg-logo="https://media.fstatic.com/eXo1wXe0bcgeQUAhjo4h-gDg8NA=/fit-in/290x478/smart/media/movies/covers/2019/02/MV5BNGU5YWQ3MDMtOGRkNC00NGUzLTkxMjMtMzEwODcyNzI1ZDFlXkEyXkFqcGdeQX_RKi09fA.jpg" group-title="LANÇAMENTOS", 15 Minutos de Guerra (DUB)
 https://1.bp.blogspot.com/-SsTGBYY_HPY/XOH4ITilJJI/AAAAAAAABXI/XQSZPxjoPzMxYzMzR7aiPsIgtQHSiIdBQCKgBGAs/m22/15.Minutos.de.Guerra..mkv
 #EXTINF:-1 tvg-logo="http://br.web.img3.acsta.net/pictures/19/04/02/18/47/3717581.jpg",1964 - O Brasil entre Armas e Livros
